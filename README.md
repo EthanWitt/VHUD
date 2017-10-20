@@ -1,2 +1,2 @@
 # VHUD
-This was my senior project where my team and I created a dashboard proof of concept for a vehichle on a mobile device.
+This was my senior project where my team and I created a dashboard proof of concept for a vehichle on a mobile device. The application used an on-board diagnostic tool for a vehicle to transmit data to a tablet. We displayed the data on the screen and used technology similar to how a teleprompter works to display all relevant data on the windshield of a vehicle. The link for this project can be found at: https://www.youtube.com/watch?v=axDyhF1N7hY
